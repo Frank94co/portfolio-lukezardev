@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "Frank Sebastián Franco Hernández",
+    "label": "Desarrollador .NET desde 2017, especializado en desarrollo web y API REST",
+    "image": "/me.jpeg",
+    "email": "frank9412_co@hotmail.com",
+    "phone": "+57 3209701036",
+    "url": "https://lukezar.dev",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "111921",
+      "city": "Bogotá",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "frank9412co",
+        "url": "https://www.linkedin.com/in/frank9412co/"
+      },
+      {
+        "network": "X",
+        "username": "frank9412_co",
+        "url": "https://x.com/frank9412_co"
+      },
+      {
+        "network": "GitHub",
+        "username": "Frank94co",
+        "url": "https://github.com/frank94co"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Adecco Colombia",
+      "position": "Desarrollador SDM",
+      "url": "https://www.adecco.com.co/",
+      "startDate": "2021-07-01",
+      "endDate": null,
+      "summary": "Desarrollo del sitio web interno de esta importante empresa de recursos humanos, construcción de librerías de clases para la conexión de servicios externos a las bases de datos de la compañía. Desarrollo en ASP.NET Core (DevExpress), C#, SQL Server, Blazor y Javascript.",
+      "highlights": [
+        "Integraciones con aplicaciones externas", "Soporte a las aplicaciones ya existentes"
+      ]
+    },
+    {
+      "name": "Seidor Colombia",
+      "position": "Desarrollador .NET Junior",
+      "url": "https://www.seidor.com/es-co",
+      "startDate": "2019-10-21",
+      "endDate": "2021-06-30",
+      "summary": "Creación del sitio web interno de Adecco e integración de los sistemas existentes con aplicaciones externas",
+      "highlights": [
+        "Desarrollo del sitio de Adecco Online"
+      ]
+    },
+    {
+      "name": "Calltech SA",
+      "position": "Ingeniero desarrollador de aplicaciones",
+      "url": "https://www.calltechsa.com/",
+      "startDate": "2019-03-19",
+      "endDate": "2019-09-19",
+      "summary": "Concepción de la primera extensión de Google compatible con el sistema de IVR de la compañía, aparte de mantener funciones existentes dentro de la compañía",
+      "highlights": [
+        "Desarrollo de CTiContRol"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Pontificia Universidad Javeriana",
+    "url": "https://www.javeriana.edu.co/inicio",
+    "area": "Ingeniero de Sistemas",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-24",
+    "endDate": "2016-08-06",
+    "score": "3.75"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "MS SQL - SQL Server",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Team Foundation Server",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects":[]
+}
